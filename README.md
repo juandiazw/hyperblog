@@ -7,5 +7,6 @@
 
 >Creado por mi
 >Incluye html y css
+>Disponible en público
 
 Puedes encontrar cursos [aquí](https://platzi.com/ "platzi")
